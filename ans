@@ -17,7 +17,7 @@ git config --global username"anilkumar"
 git config --global useremail"guntupallianil@karunya.edu.in"
 git config --list
 git clone url
-git remote add repostioryname url
+git remote add repostioryname main
 git remote --v
 cd repostioryname
 echo "me" > text.txt
