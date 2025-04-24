@@ -1,0 +1,61 @@
+1.
+crome github
+repository file creating
+command front
+mkdir URK24CS6018
+cd URK24CS6018
+git init
+git clone url
+cd repositoryname
+echo "hii" > readme.md
+git add readme
+git commit -m "byee"
+
+
+2.working with remote repost on local machine
+git config --global username"anilkumar"
+git config --global useremail"guntupallianil@karunya.edu.in"
+git config --list
+git clone url
+git remote add repostioryname url
+git remote --v
+cd repostioryname
+echo "me" > text.txt
+git add .
+git commit -m "its"
+git push origin main
+create a new file 
+git pull origin main
+git ls files
+
+3.version control in software application development
+git clone url
+cd repostioryname
+5.(git branch branchname(cse)
+git branch
+git checkout cse
+echo "lets" > tata.txt
+git add .
+git commit -m "cyber"
+git push url
+git checkout main
+git merge cse
+git branch 
+)
+
+
+5. collabatory repost
+create a new fork 
+git clone url
+git remote add upstream(its url)
+git remote --v
+git fetch upstream
+
+in 3rd one 
+
+
+6.config
+git clone (repos)
+pull
+5th
+3rd
